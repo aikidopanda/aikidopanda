@@ -1,6 +1,8 @@
 ## Supposed to be Full Stack Veb Developer 🛠
 ### Currently studying in Developers Institute 📜
 
+![github-img](https://user-images.githubusercontent.com/31676788/227150635-f5f996fd-91d3-4f92-ab27-3cb7505a67bb.jpg)
+
 ![HTML](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white)
 
