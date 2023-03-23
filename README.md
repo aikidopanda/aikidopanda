@@ -1,10 +1,9 @@
 ## Supposed to be Full Stack Veb Developer 🛠
 ### Currently studying in Developers Institute 📜
 
-![github-img](https://user-images.githubusercontent.com/31676788/227150635-f5f996fd-91d3-4f92-ab27-3cb7505a67bb.jpg)
-
 ![HTML](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white)
+![github-img](https://user-images.githubusercontent.com/31676788/227151688-37fa49a1-7aaf-488e-ab2b-abe4262ad505.jpg)
 
 <!--
 **aikidopanda/aikidopanda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
