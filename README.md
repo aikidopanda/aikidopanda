@@ -1,5 +1,5 @@
 ## Supposed to be Full Stack Veb Developer 🛠
-### Currently studying in Developers Institute, almost graduated 📜
+### Just graduated from Developers Institute, Israel 📜
 
 ![HTML](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white)
